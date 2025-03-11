@@ -1,7 +1,11 @@
+
+[PROJECT]: CTSM                    <!-- Name of the project -->
+[DATE_OF_ADOPT]: Mar/11/2025       <!-- Date that this Code of Conduct was adopted by the Project -->
+
 # Contributor Code of conduct
 
 ## Our Pledge
-We, as contributors, creators, stewards, and maintainers (collectively referred to as "contributors" below), of [Enter project name] pledge to make participation in our software, system or hardware project and community a safe, productive, and welcoming experience for everyone. All contributors are required to abide by this Code of Conduct. This includes respectful treatment of everyone regardless of age, body size, disability, ethnicity, gender identity or expression, level of experience, nationality, political affiliation, veteran status, pregnancy, genetic information, physical appearance, race, religion, or sexual orientation, as well as any other characteristic protected under applicable US federal or state law.
+We, as contributors, creators, stewards, and maintainers (collectively referred to as "contributors" below), of [PROJECT] pledge to make participation in our software, system or hardware project and community a safe, productive, and welcoming experience for everyone. All contributors are required to abide by this Code of Conduct. This includes respectful treatment of everyone regardless of age, body size, disability, ethnicity, gender identity or expression, level of experience, nationality, political affiliation, veteran status, pregnancy, genetic information, physical appearance, race, religion, or sexual orientation, as well as any other characteristic protected under applicable US federal or state law.
 
 ## Our Standards
 ### Examples of behaviors that contribute to a positive environment include:
@@ -59,7 +63,7 @@ All UCAR managed projects are required to adopt this Contributor Code of Conduct
 Projects that adopt this Code of Conduct need to stay up to date with UCAR's Contributor Code of Conduct, linked with a DOI in the Attribution section below. Projects can make limited substantive changes to the Code of Conduct, however, the changes must be limited in scope and may not contradict the UCAR Contributor Code of Conduct.
 
 ## Attribution
-This Code of Conduct was originally adapted from the Contributor Covenant, version 1.4. We then aligned it with the UCAR Participant Code of Conduct, which also borrows from the American Geophysical Union (AGU) Code of Conduct. The UCAR Participant Code of Conduct applies to both UCAR employees as well as participants in activities run by UCAR. The original version of this for all software projects that have strong management from UCAR or UCAR staff is available on the UCAR website at https://doi.org/10.5065/6w2c-a132. The date that it was adopted by this project was [Enter date adopted]. When responding to complaints, UCAR HR will do so based on the latest published version. Therefore, any project-specific changes should follow the Process for Changes section above.
+This Code of Conduct was originally adapted from the Contributor Covenant, version 1.4. We then aligned it with the UCAR Participant Code of Conduct, which also borrows from the American Geophysical Union (AGU) Code of Conduct. The UCAR Participant Code of Conduct applies to both UCAR employees as well as participants in activities run by UCAR. The original version of this for all software projects that have strong management from UCAR or UCAR staff is available on the UCAR website at https://doi.org/10.5065/6w2c-a132. The date that it was adopted by this project was [DATE_OF_ADOPT]. When responding to complaints, UCAR HR will do so based on the latest published version. Therefore, any project-specific changes should follow the Process for Changes section above.
 
 As an Equal Employment Opportunity Employer and recipient of federal funds, UCAR complies with Title VI, Title VII, and Title IX of the Civil Rights Act; the Rehabilitation Act of 1973, as amended, and the Age Discrimination in Employment Act of 1975, as amended. See UCAR’s Nondiscrimination Statement.
 
