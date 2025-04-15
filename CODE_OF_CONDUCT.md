@@ -63,7 +63,7 @@ Complaints received by UCAR will be handled pursuant to the procedures outlined 
 
 If you require a reasonable accommodation due to a disability or for assistance as an individual with Limited English Proficiency (LEP), please contact [UCAR's Chief Human Resources Officer](mailto:chro@ucar.edu).
 
-Any Contributor can use these reporting methods even if they are not directly affiliated with UCAR. The Frequently Asked Questions (FAQ) page for reporting is ([here](https://docs.google.com/document/d/12BBArclRFoG4zDQ9BkDCG8xYNwVouQ_E/edit?usp=sharing&ouid=103709168550680709689&rtpof=true&sd=true).
+Any Contributor can use these reporting methods even if they are not directly affiliated with UCAR. The Frequently Asked Questions (FAQ) page for reporting is [here](https://docs.google.com/document/d/12BBArclRFoG4zDQ9BkDCG8xYNwVouQ_E/edit?usp=sharing&ouid=103709168550680709689&rtpof=true&sd=true).
 
 ## Consequences
 
